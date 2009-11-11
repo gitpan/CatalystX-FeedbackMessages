@@ -10,7 +10,8 @@ meta-spec:
 name: CatalystX-FeedbackMessages
 requires:
   Catalyst: 5.8
+  Catalyst::Action::RenderView: "\"\""
   Moose: "\"\""
   Moose::Role: "\"\""
   Test::Simple: 0.88
-version: 0.04
+version: 0.05

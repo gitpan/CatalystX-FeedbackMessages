@@ -7,7 +7,7 @@ CatalystX::FeedbackMessages - Easy way to stuff "status" messages into your stas
 
 =head1 VERSION
 
-version 0.04
+version 0.05
 
 =cut
 
@@ -94,7 +94,7 @@ I dunno :-)
 
 # ABSTRACT: Add "status messages" to your app, easy like!
 
-our $VERSION = '0.04'; 
+our $VERSION = '0.05'; 
 sub msg {
     my ($c, $msg) = @_;
     $c->stash->{messages} ||= [];
