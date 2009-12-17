@@ -1,6 +1,6 @@
 package # Hide from PAUSE
     TestApp;
-our $VERSION = '1.093510';
+our $VERSION = '0.0602';
 use Catalyst qw/
     +CatalystX::FeedbackMessages
 /;
