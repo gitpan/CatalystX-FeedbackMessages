@@ -7,7 +7,7 @@ CatalystX::FeedbackMessages - Easy way to stuff "status" messages into your stas
 
 =head1 VERSION
 
-version 0.05
+version 1.093510
 
 =cut
 
