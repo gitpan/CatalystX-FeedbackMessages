@@ -1,5 +1,5 @@
 package TestApp::Controller::Root;
-our $VERSION = '0.0602';
+our $VERSION = '0.0603';
 use Moose;
 use namespace::autoclean;
 
